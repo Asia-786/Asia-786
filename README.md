@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Asiya Batool_Frontend Web Developer
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React JS
 - 📫 asia.batool888@gmail.com
 
 <!---
